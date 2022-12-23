@@ -6,9 +6,9 @@
 }
 
 body {
-    background-color: #2E4057;
+    background-color: var(--color-one);
     margin: 0;
     box-sizing: border-box;
     padding: 0;
-    color: #ffffff;
+    color: var(--font-color);
 }

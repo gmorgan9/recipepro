@@ -15,7 +15,7 @@
     <!-- end bootstrap -->
 
     <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=1.01">
+        <link rel="stylesheet" href="assets/styles.css?v=1.02">
     <!-- end custom css styles -->
 
     <title>Fuel Up</title>
