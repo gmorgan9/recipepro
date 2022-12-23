@@ -1,0 +1,12 @@
+:root {
+    --color-one: #2E4057;
+    --color-two: #9EE493;
+    --color-three: #7CA5B8;
+}
+
+body {
+    background-color: var(--color-one);
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
