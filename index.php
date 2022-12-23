@@ -6,9 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=2.00">
-    <!-- end custom css styles -->
+    
 
     <!-- bootstrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
@@ -16,16 +14,13 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>   
     <!-- end bootstrap -->
 
+    <!-- custom css styles -->
+        <link rel="stylesheet" href="assets/styles.css?v=1.01">
+    <!-- end custom css styles -->
+
     <title>Fuel Up</title>
 
     <style>
-        body {
-    background-color: #2E4057;
-    margin: 0;
-    box-sizing: border-box;
-    padding: 0;
-    color: #ffffff;
-}
     </style>
 </head>
 <body>
