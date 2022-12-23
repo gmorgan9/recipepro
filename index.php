@@ -30,7 +30,7 @@
             <ul>
                 <li><a href=""><i class="bi bi-house-door-fill"></i></a></li>
                 <li><a href=""><i class="bi bi-plus-circle-fill"></i></a></li>
-                <li><a href=""><i class="bi bi-journal-bookmark-fill"></i></a></li>
+                <li><a href=""><i class="bi bi-book-fill"></i></a></li>
             </ul>
         </nav>
     </div>
