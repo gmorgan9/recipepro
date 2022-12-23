@@ -17,6 +17,16 @@
     <!-- end bootstrap -->
 
     <title>Fuel Up</title>
+
+    <style>
+        body {
+    background-color: #2E4057;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    color: #ffffff;
+}
+    </style>
 </head>
 <body>
     <h1>
