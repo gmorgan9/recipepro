@@ -2,6 +2,7 @@
     --color-one: #2E4057;
     --color-two: #9EE493;
     --color-three: #7CA5B8;
+    --font-color: #ffffff;
 }
 
 body {
@@ -9,4 +10,5 @@ body {
     margin: 0;
     box-sizing: border-box;
     padding: 0;
+    color: var(--font-color);
 }
