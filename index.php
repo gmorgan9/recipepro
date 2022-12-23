@@ -25,7 +25,7 @@
     <h1>
         hello world
     </h1>
-    <div class="bottom-nav">
+    <div class="bottom-nav d-flex flex-row position-bottom">
         <nav>
             <ul>
                 <li><a href=""><i class="bi bi-house-door-fill"></i></a></li>
