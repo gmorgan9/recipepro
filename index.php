@@ -27,7 +27,7 @@
     </h1>
     <div class="bottom-nav ">
         <nav>
-            <ul>
+            <ul class="d-flex flex-row">
                 <li><a class="text-white" href=""><i class="bi bi-house-door-fill"></i></a></li>
                 <li><a href=""><i class="bi bi-plus-circle-fill"></i></a></li>
                 <li><a href=""><i class="bi bi-book-fill"></i></a></li>
