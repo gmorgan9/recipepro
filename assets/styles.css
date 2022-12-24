@@ -11,8 +11,10 @@ body {
     padding: 0;
     color: var(--font-color);
 }
-.mobile-bottom-nav{
+nav ul {
     list-style-type: none;
+}
+.mobile-bottom-nav{
     padding-top: 15px; 
 	position:fixed;
 	bottom:0;
