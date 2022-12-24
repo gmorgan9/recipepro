@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('America/Denver');
 require_once "../app/database/connection.php";
-require_once "../app/database/functions.php";
+// require_once "../app/database/functions.php";
 require_once "../path.php";
 session_start();
 
@@ -24,7 +24,7 @@ session_start();
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-    <link rel="stylesheet" href="../assets/styles.css?v=4.26">
+    <link rel="stylesheet" href="../assets/styles.css?v=1.30">
     <link rel="stylesheet" href="../assets/sidebar.css?v=1.10">
 
     <title>Dashboard - CacheUp Blog</title>
@@ -44,12 +44,12 @@ session_start();
   <div class="container-fluid main">
 
     <div class="row">
-      <?php //include(ROOT_PATH . "/app/includes/header.php"); ?>
+      <?php include(ROOT_PATH . "/app/includes/header.php"); ?>
     </div>
 
     <div class="row">
       <div class="col" style="margin:0;padding:0;">
-        <?php //include(ROOT_PATH . "/app/includes/sidebar.php") ?>
+        <?php include(ROOT_PATH . "/app/includes/sidebar.php") ?>
       </div>
     </div>
 
