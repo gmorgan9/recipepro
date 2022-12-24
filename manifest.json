@@ -5,6 +5,6 @@
     "start_url": "https://fuelup.morganserver.com",
     "display": "minimal-ui",
     "scope": "/",
-    "theme_color": "black-translucent",
+    "theme_color": "#2E4057",
     "description": "Recipe Application"
   }
