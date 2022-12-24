@@ -50,6 +50,7 @@ session_start();
 
         <ul class="list-group-glush">
             <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="login.php">Login</a></li>
+            <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="logout.php">Logout</a></li>
         </ul>
 
     </div>
