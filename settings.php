@@ -26,7 +26,7 @@ session_start();
     <!-- end bootstrap -->
 
     <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=1.28">
+        <link rel="stylesheet" href="assets/styles.css?v=1.30">
     <!-- end custom css styles -->
 
     <title>Recipe Pro</title>
