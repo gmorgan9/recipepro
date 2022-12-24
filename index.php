@@ -26,8 +26,8 @@
     <h1>
         hello world
     </h1>
-        <nav class="mobile-bottom-nav">
-            <ul class="d-flex flex-row justify-content-between">
+        <nav class="">
+            <ul class="mobile-bottom-nav d-flex justify-content-between">
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-house-door-fill"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-plus-circle-fill"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-book-fill"></i></a></li>
