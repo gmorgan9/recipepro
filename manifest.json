@@ -3,7 +3,6 @@
     "name": "RecipePro",
     "id": "https://recipepro.morganserver.com",
     "start_url": "https://recipepro.morganserver.com",
-    "scope": "/",
     "theme_color": "#2E4057",
     "description": "Recipe Application"
   }
