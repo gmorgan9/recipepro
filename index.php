@@ -30,10 +30,10 @@
             <div class="pt-1"></div>
             <ul class="list d-flex justify-content-between">
                 <li><a class="d-flex flex-column text-white align-items-center" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-house-door-fill" style="margin-bottom: -5px;"></i><span style="font-size: 12px; ">Home</span></a></li>
-                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-list-check"></i></a></li>
-                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-calendar-week"></i></a></li>
-                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-book-fill"></i></a></li>
-                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-gear-fill"></i></a></li>
+                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-list-check" style="margin-bottom: -5px;"></i><span style="font-size: 12px;">Home</span></a></li>
+                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-calendar-week" style="margin-bottom: -5px;"></i><span style="font-size: 12px;">Home</span></a></li>
+                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-book-fill" style="margin-bottom: -5px;"></i><span style="font-size: 12px;">Home</span></a></li>
+                <li><a class="text-white" style="text-decoration: none; font-size: 20px;" href=""><i class="bi bi-gear-fill" style="margin-bottom: -5px;"></i><span style="font-size: 12px;">Home</span></a></li>
             </ul>
         </nav>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
