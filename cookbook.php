@@ -19,7 +19,7 @@
     <!-- end bootstrap -->
 
     <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=1.26">
+        <link rel="stylesheet" href="assets/styles.css?v=1.27">
     <!-- end custom css styles -->
 
     <title>Recipe Pro</title>
