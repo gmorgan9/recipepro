@@ -22,7 +22,7 @@
         <link rel="stylesheet" href="assets/styles.css?v=1.26">
     <!-- end custom css styles -->
 
-    <title>Fuel Up</title>
+    <title>Recipe Pro</title>
 </head>
 <body>
     <div class="pt-3"></div>
