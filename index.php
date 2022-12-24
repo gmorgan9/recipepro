@@ -28,7 +28,7 @@
     </h1>
         <nav class="mobile-bottom-nav">
             <ul class="list d-flex justify-content-between">
-                <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-house-door-fill"></i></a></li>
+                <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-house-door-fill"></i>Home</a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-list-check"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-calendar-week"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-book-fill"></i></a></li>
