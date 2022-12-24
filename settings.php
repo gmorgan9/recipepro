@@ -53,8 +53,11 @@ session_start();
         <div class="mt-3"></div>
 
         <ul class="list-group-glush">
-            <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="login.php">Login</a></li>
-            <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="logout.php">Logout</a></li>
+            <?php if(!isset($_SESSION['username'])) { ?>
+                <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="login.php">Login</a></li>
+            <?php } else { ?>    
+                <li class="list-group-item"><a style="text-decoration: none;" class="login-link text-white" href="logout.php">Logout</a></li>
+            <?php } ?>
         </ul>
 
     </div>
