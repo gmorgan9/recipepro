@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta charset="UTF-8">
-    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = no">
-
+    <meta name="mobile-web-app-capable" content="yes"> 
+    <meta name="viewport" content="initial-scale=1"> 
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"> 
+    <!-- <link rel="apple-touch-icon" sizes="192x192" href="/test/icon.png">  -->
     <link rel="manifest" href="manifest.json">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = no"> -->
 
     
 
