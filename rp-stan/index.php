@@ -44,12 +44,12 @@ session_start();
   <div class="container-fluid main">
 
     <div class="row">
-      <?php //include(ROOT_PATH . "/app/includes/header.php"); ?>
+      <?php include(ROOT_PATH . "/app/includes/header.php"); ?>
     </div>
 
     <div class="row">
       <div class="col" style="margin:0;padding:0;">
-        <?php //include(ROOT_PATH . "/app/includes/sidebar.php") ?>
+        <?php include(ROOT_PATH . "/app/includes/sidebar.php") ?>
       </div>
     </div>
 
