@@ -24,7 +24,7 @@
 </head>
 <body>
     <h1>
-        Home
+        Shopping List
     </h1>
     <nav class="mobile-bottom-nav">
             <div class="pt-1"></div>

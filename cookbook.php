@@ -24,9 +24,9 @@
 </head>
 <body>
     <h1>
-        Home
+        Cook Books
     </h1>
-    <nav class="mobile-bottom-nav">
+        <nav class="mobile-bottom-nav">
             <div class="pt-1"></div>
             <ul class="list d-flex justify-content-between">
                 <li><a class="d-flex flex-column text-white align-items-center" style="text-decoration: none; font-size: 20px;" href="/"><i class="bi bi-house-door-fill" style="margin-bottom: -5px;"></i><span style="font-size: 12px; ">Home</span></a></li>
