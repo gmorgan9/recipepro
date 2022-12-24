@@ -17,7 +17,7 @@
     <!-- end bootstrap -->
 
     <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=1.19">
+        <link rel="stylesheet" href="assets/styles.css?v=1.20">
     <!-- end custom css styles -->
 
     <title>Fuel Up</title>
@@ -27,7 +27,7 @@
         hello world
     </h1>
         <nav class="mobile-bottom-nav">
-            <ul class="d-flex justify-content-between">
+            <ul class="list d-flex justify-content-between">
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-house-door-fill"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-plus-circle-fill"></i></a></li>
                 <li><a class="text-white" style="font-size: 20px;" href=""><i class="bi bi-book-fill"></i></a></li>
