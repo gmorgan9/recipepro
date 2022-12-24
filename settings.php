@@ -42,7 +42,11 @@ session_start();
 
         <div class="card" style="background-color: transparent;width: 98%;">
             <div class="card-body">
-                Welcome, <?php echo $_SESSION['firstname']; ?> <?php echo $_SESSION['lastname']; ?>!
+                <?php if(!isset($_SESSION['username'])) { ?>
+                    Currently not signed in!
+                <?php } else { ?>    
+                    Welcome, <?php echo $_SESSION['firstname']; ?> <?php echo $_SESSION['lastname']; ?>!
+                <?php } ?>
             </div>
         </div>
         
