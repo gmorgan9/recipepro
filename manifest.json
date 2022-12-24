@@ -1,0 +1,10 @@
+{
+    "short_name": "FuelUp",
+    "name": "FuelUp",
+    "id": "https://fuelup.morganserver.com",
+    "start_url": "https://fuelup.morganserver.com",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "description": "Recipe Application"
+  }
