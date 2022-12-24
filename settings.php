@@ -33,7 +33,7 @@
 
     <div class="ps-2 content">
 
-        <div class="card">
+        <div class="card" style="width: 98%;">
             <div class="card-body">
                 Garrett Morgan
             </div>
