@@ -25,7 +25,7 @@
     <title>Fuel Up</title>
 </head>
 <body>
-    <h1>
+    <h1 style="overflow:hidden;">
         Home
     </h1>
     <nav class="mobile-bottom-nav">
