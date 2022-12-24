@@ -15,7 +15,8 @@ nav ul {
     list-style-type: none;
 }
 .list {
-    padding-left: -15px;
+    margin-left: -15px;
+    margin-right: 15px;
 }
 .mobile-bottom-nav{
     padding-top: 15px; 
