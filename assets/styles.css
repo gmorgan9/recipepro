@@ -21,7 +21,7 @@ nav ul {
 	right:0;
 	z-index:1000;
 	height:50px;
-    border-radius: 15px;
+    border-radius: 15px 0;
 	box-shadow: 0 -2px 5px -2px #333;
 	background-color: var(--color-three);
 }
