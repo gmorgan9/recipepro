@@ -59,7 +59,7 @@ session_start();
       <div class="col-10" style="margin-left: -30px;">
         <div class="mt-5"></div>
         <h3 class="text-black">
-          Dashboard
+          Administrator Dashboard
         </h3>
         <div class="mt-3"></div>
 
