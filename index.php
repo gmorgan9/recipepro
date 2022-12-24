@@ -16,7 +16,7 @@
     <!-- end bootstrap -->
 
     <!-- custom css styles -->
-        <link rel="stylesheet" href="assets/styles.css?v=1.03">
+        <link rel="stylesheet" href="assets/styles.css?v=1.04">
     <!-- end custom css styles -->
 
     <title>Fuel Up</title>
@@ -25,9 +25,9 @@
     <h1>
         hello world
     </h1>
-    <div class="bottom-nav ">
-        <nav>
-            <ul class="d-inline-block">
+    <div class="bottom-nav">
+        <nav class="mobile-bottom-nav">
+            <ul class="">
                 <li><a class="text-white" href=""><i class="bi bi-house-door-fill"></i></a></li>
                 <li><a href=""><i class="bi bi-plus-circle-fill"></i></a></li>
                 <li><a href=""><i class="bi bi-book-fill"></i></a></li>
